@@ -7,7 +7,7 @@
 ╚═╝      ╚═════╝  ╚══╝╚══╝ ╚══════╝╚═╝  ╚═╝
 ```
 # interface CacheItemInterface (Details)
-> namespace: **VDM\Psr\Cache**
+> namespace: **VastDevelopmentMethod\Psr\Cache**
 ```uml
 @startuml
 interface CacheItemInterface  #Lavender {

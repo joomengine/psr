@@ -2,7 +2,7 @@
     "171fcb39-ae27-4c2b-b091-2f70b824288b": {
         "name": "CacheItemInterface",
         "type": "interface",
-        "namespace": "VDM\\Psr\\Cache",
+        "namespace": "VastDevelopmentMethod\\Psr\\Cache",
         "code": "src\/171fcb39-ae27-4c2b-b091-2f70b824288b\/code.php",
         "power": "src\/171fcb39-ae27-4c2b-b091-2f70b824288b\/code.power",
         "settings": "src\/171fcb39-ae27-4c2b-b091-2f70b824288b\/settings.json",

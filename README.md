@@ -23,7 +23,7 @@ This repository contains an index (see below) of all the approved powers within 
 
 # Index of powers
 
-- **Namespace**: [VDM\Psr\Cache](#vdm-psr-cache)
+- **Namespace**: [VastDevelopmentMethod\Psr\Cache](#vastdevelopmentmethod-psr-cache)
 
   - **interface CacheItemInterface** | [Details](src/171fcb39-ae27-4c2b-b091-2f70b824288b) | [Code](src/171fcb39-ae27-4c2b-b091-2f70b824288b/code.php) | [Settings](src/171fcb39-ae27-4c2b-b091-2f70b824288b/settings.json) | Super__171fcb39_ae27_4c2b_b091_2f70b824288b__Power
 
