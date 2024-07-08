@@ -7,7 +7,7 @@
  * @git        Caching Interface <https://github.com/php-fig/cache>
  * @license    MIT
  */
-namespace VastDevelopmentMethod\Psr\Cache;
+namespace VDM\Psr\Cache;
 
 
 /**
