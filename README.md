@@ -25,7 +25,8 @@ This repository contains an index (see below) of all the approved powers within 
 
 - **Namespace**: [VDM\Psr\Cache](#vdm-psr-cache)
 
-  - **interface CacheItemInterface** | [Details](src/171fcb39-ae27-4c2b-b091-2f70b824288b) | [Code](src/171fcb39-ae27-4c2b-b091-2f70b824288b/code.php) | [Settings](src/171fcb39-ae27-4c2b-b091-2f70b824288b/settings.json) | Super__171fcb39_ae27_4c2b_b091_2f70b824288b__Power
+  - **interface CacheItemInterface** | [Details](src/171fcb39-ae27-4c2b-b091-2f70b824288b) | [Code](src/171fcb39-ae27-4c2b-b091-2f70b824288b/code.php) | [Settings](src/171fcb39-ae27-4c2b-b091-2f70b824288b/settings.json) | SPK: `Super---171fcb39_ae27_4c2b_b091_2f70b824288b---Power`
+> remember to replace the `---` with `___` in the SPK to activate that Power in your code
 
 ---
 ```
